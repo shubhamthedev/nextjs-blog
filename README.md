@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blog App Using NextJS
+
+- This app was built using Next JS which a framework for React
+
+![image](https://i.imgur.com/jOe4aoN.png)
 
 ## Getting Started
 
