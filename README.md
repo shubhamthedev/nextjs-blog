@@ -1,6 +1,7 @@
 # Blog App Using NextJS
 
 - This app was built using Next JS which a framework for React
+- The live site https://shubhamthedevblog.netlify.app/
 
 ![image](https://i.imgur.com/jOe4aoN.png)
 
